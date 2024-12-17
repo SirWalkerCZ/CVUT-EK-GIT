@@ -15,7 +15,7 @@ CKWYFNW1GGMHJ9KYJ1YRY9LX
 
 ```
 #define IO_USERNAME  "SirWalkerCZ"
-#define IO_KEY       "aio_Bvuf90CJdroVylf6sij1APbtBEDe"
+#define IO_KEY       "********"
 ```
 
 #ekp
