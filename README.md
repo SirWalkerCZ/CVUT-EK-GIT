@@ -33,20 +33,3 @@ o uele se radši nemluví [[UELA-CTRF.pdf]]
 
 ### 3. semestr
 [[3. Speciální Semestrální operace]]
-## Osobní projekty
-[[Léto 24]]
-- [ ] [[Chlazení do tátový dílny]]
-- [ ] [[Custom myš]]
-- [ ] [[Debugování v PlatformIO]]
-- [x] [[ekmcserver]]
-- [x] [[Oprava 3D tiskárny]]
-- [x] [[Shot Counter]]
-- [x] [[Tarkov modpack]]
-- [ ] [[Oprava NTB sklep]]
-- [ ] [[Elektrika dílna]]
-- [x] obsidian logger
-## Space Research
-[[Main]]
-[[Space Research/BALLOON/BALLOON.canvas|BALLOON]]
-[[balloon crashes]]
-[[Pinout]]
