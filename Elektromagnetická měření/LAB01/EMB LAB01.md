@@ -1,0 +1,3 @@
+[[Protokol_1.pdf]]
+[[Uloha 1 - Frekvenční závislost multimetrů a měření nesinusových napětí.pdf]]
+https://onedrive.live.com/redir?resid=F4A890BBF34E40C8%216047&authkey=%21AL6QwF2vRYhitf0&page=Edit&wd=target%28Cvičení.one%7C400c05c6-6363-474c-9184-b97bb58745e2%2FViktor%20nerozumi%20slovu%20poslat%20screenshot%20ale%20i%20tak%20ho%20mame%20%7C1d4f69d7-70ab-448b-852b-bdcb2e091c3f%2F%29&wdorigin=NavigationUrl

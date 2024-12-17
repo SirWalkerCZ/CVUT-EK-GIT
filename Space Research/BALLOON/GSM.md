@@ -1,0 +1,77 @@
+```
+AT+CPIN=?AT+CPIN="1234"AT+CSQ
+ERROR
+AT+CCID
+8942031023031534696f
+
+OK
+AT+CREG?
++CREG: 0,0
+
+OK
+AT+CPIN=?AT+CPIN="1234"AT+CSQ
+ERROR
+AT+CCID
+8942031023031534696f
+
+OK
+AT+CREG?
++CREG: 0,0
+
+OK
+
+```
+Postup příkazů:
+{"AT\r" , "AT+CPIN=?", "AT+CPIN=\"1234\"", "AT+CSQ\r", "AT+CCID\r", "AT+CREG?\r"};
+
+### Newer version
+```
+
+AT
+OK
+AT+CPIN=?
+OK
+AT+CPIN="1234"
+OK
+
++CPIN: READY
+
+Call Ready
+
+SMS Ready
+AT+CSQ
++CSQ: 22,5
+
+OK
+AT+CCID
+8942031023031534696f
+
+OK
+AT+CREG?
++CREG: 0,1
+
+OK
+
++CMTI: "SM",1
+
++CMTI: "SM",2
+
++CMTI: "SM",3
+
++CMTI: "SM",4
+
++CMTI: "SM",5
+
++CMTI: "SM",6
+
++CMTI: "SM",7
+
++CMTI: "SM",8
+
++CMTI: "SM",9
+
++CMTI: "SM",10
+
++CMTI: "SM",11
+
+```

@@ -1,0 +1,324 @@
+<mxfile host="app.diagrams.net" modified="2023-11-30T21:40:41.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="xtlMwL8hlnUcLsWWL6h3" version="21.7.1" type="google">
+  <diagram name="Page-1" id="dQdHOiVyKjOQmxq05pIn">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-36" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="520" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-1" value="START" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9rvxFz3cd5GPNRVBI1RE-36">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-5" value="Test sensors" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="9rvxFz3cd5GPNRVBI1RE-36">
+          <mxGeometry x="20" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9rvxFz3cd5GPNRVBI1RE-36" source="9rvxFz3cd5GPNRVBI1RE-1" target="9rvxFz3cd5GPNRVBI1RE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-10" value="Abort Launch" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="9rvxFz3cd5GPNRVBI1RE-36">
+          <mxGeometry x="180" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-11" value="FAIL&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rvxFz3cd5GPNRVBI1RE-36" source="9rvxFz3cd5GPNRVBI1RE-5" target="9rvxFz3cd5GPNRVBI1RE-10">
+          <mxGeometry x="-0.25" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="120" />
+              <mxPoint x="140" y="120" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-23" value="FAIL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;align=center;" edge="1" parent="9rvxFz3cd5GPNRVBI1RE-36" source="9rvxFz3cd5GPNRVBI1RE-12" target="9rvxFz3cd5GPNRVBI1RE-10">
+          <mxGeometry x="-0.7857" relative="1" as="geometry">
+            <mxPoint x="220" y="310" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-12" value="Test battery charge" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="9rvxFz3cd5GPNRVBI1RE-36">
+          <mxGeometry x="20" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-16" value="Ready for launch" style="whiteSpace=wrap;html=1;" vertex="1" parent="9rvxFz3cd5GPNRVBI1RE-36">
+          <mxGeometry y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-22" value="FAIL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="9rvxFz3cd5GPNRVBI1RE-36" source="9rvxFz3cd5GPNRVBI1RE-19" target="9rvxFz3cd5GPNRVBI1RE-10">
+          <mxGeometry x="-0.6667" relative="1" as="geometry">
+            <mxPoint x="220" y="220" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9rvxFz3cd5GPNRVBI1RE-36" source="9rvxFz3cd5GPNRVBI1RE-19" target="9rvxFz3cd5GPNRVBI1RE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-19" value="Test coms + GPS" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="9rvxFz3cd5GPNRVBI1RE-36">
+          <mxGeometry x="20" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rvxFz3cd5GPNRVBI1RE-36" source="9rvxFz3cd5GPNRVBI1RE-5" target="9rvxFz3cd5GPNRVBI1RE-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-25" value="Disconnect from ground equipment" style="whiteSpace=wrap;html=1;" vertex="1" parent="9rvxFz3cd5GPNRVBI1RE-36">
+          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rvxFz3cd5GPNRVBI1RE-36" source="9rvxFz3cd5GPNRVBI1RE-16" target="9rvxFz3cd5GPNRVBI1RE-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-27" value="LAUNCH" style="whiteSpace=wrap;html=1;" vertex="1" parent="9rvxFz3cd5GPNRVBI1RE-36">
+          <mxGeometry x="400" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rvxFz3cd5GPNRVBI1RE-36" source="9rvxFz3cd5GPNRVBI1RE-25" target="9rvxFz3cd5GPNRVBI1RE-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9rvxFz3cd5GPNRVBI1RE-36" source="9rvxFz3cd5GPNRVBI1RE-29" target="9rvxFz3cd5GPNRVBI1RE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-32" value="FAIL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="9rvxFz3cd5GPNRVBI1RE-36" source="9rvxFz3cd5GPNRVBI1RE-29">
+          <mxGeometry x="-0.8423" relative="1" as="geometry">
+            <mxPoint x="220" y="160" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-29" value="Test SD&amp;nbsp;&lt;br&gt;cards" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="9rvxFz3cd5GPNRVBI1RE-36">
+          <mxGeometry x="20" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9rvxFz3cd5GPNRVBI1RE-36" source="9rvxFz3cd5GPNRVBI1RE-12" target="9rvxFz3cd5GPNRVBI1RE-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvxFz3cd5GPNRVBI1RE-39" target="9rvxFz3cd5GPNRVBI1RE-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-39" value="Start of state machine" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvxFz3cd5GPNRVBI1RE-27" target="9rvxFz3cd5GPNRVBI1RE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-44" value="10%&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvxFz3cd5GPNRVBI1RE-41" target="9rvxFz3cd5GPNRVBI1RE-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-46" value="10%&amp;lt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvxFz3cd5GPNRVBI1RE-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-41" value="Check battery Voltage" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-43" value="HIBERNATE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-49" value="10% je pracovní číslo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvxFz3cd5GPNRVBI1RE-50" target="9rvxFz3cd5GPNRVBI1RE-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvxFz3cd5GPNRVBI1RE-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="919.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-58" value="FAIL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="9rvxFz3cd5GPNRVBI1RE-56">
+          <mxGeometry x="-0.1" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-50" value="Enable GPS&lt;br&gt;and GSM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvxFz3cd5GPNRVBI1RE-52" target="9rvxFz3cd5GPNRVBI1RE-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-47" value="Height &amp;lt; 1km" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvxFz3cd5GPNRVBI1RE-52" target="esAnHoYAt_opumiuqzHz-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-52" value="Get location and send it on GSM" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvxFz3cd5GPNRVBI1RE-61" target="9rvxFz3cd5GPNRVBI1RE-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-61" value="Disable both modules" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-2" value="FAIL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvxFz3cd5GPNRVBI1RE-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rvxFz3cd5GPNRVBI1RE-63" target="esAnHoYAt_opumiuqzHz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9rvxFz3cd5GPNRVBI1RE-63" value="Enable I2C sensors" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-3" value="&lt;b&gt;I2C sensory&lt;/b&gt;&lt;br&gt;Akcelerometr&lt;br&gt;Inerciometr&lt;br&gt;Sensor magnetismu&lt;br&gt;Vlhkost+Teplotměr&lt;br&gt;Teploměr&lt;br&gt;Tlak" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="650" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-4" target="esAnHoYAt_opumiuqzHz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-4" value="Measure (I2C)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-6" target="esAnHoYAt_opumiuqzHz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-6" value="Disable I2C sensors" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-8" value="Měření na sensorech &lt;br&gt;může mít různou frekvenci,&lt;br&gt;&amp;nbsp;někdy můžem sensor přeskočit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="740" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-15" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-10" target="esAnHoYAt_opumiuqzHz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-21" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-10">
+          <mxGeometry x="-0.7647" relative="1" as="geometry">
+            <mxPoint x="1680" y="1170" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-10" value="Do we want to measure CO2 and gas?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-17" value="FAIL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-14" target="esAnHoYAt_opumiuqzHz-25">
+          <mxGeometry x="-0.3336" relative="1" as="geometry">
+            <mxPoint x="1620" y="1200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1420" y="960" />
+              <mxPoint x="1420" y="1210" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-14" target="esAnHoYAt_opumiuqzHz-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-14" value="Enable CO2 and gas sensors" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1680" y="1100.0588235294117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-18" value="Measure (gas)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-25" target="esAnHoYAt_opumiuqzHz-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-25" value="SD card selector" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-26" target="esAnHoYAt_opumiuqzHz-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-26" value="Write data to Selected SD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-32" value="Cannot read card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-34" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.34;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-25" target="esAnHoYAt_opumiuqzHz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-35" value="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.671;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-25" target="esAnHoYAt_opumiuqzHz-26">
+          <mxGeometry x="0.1797" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-38" target="esAnHoYAt_opumiuqzHz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-38" value="Failed to write&lt;br&gt;data to card, try the second one" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.037;entryY=0.308;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-26" target="esAnHoYAt_opumiuqzHz-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-42" target="9rvxFz3cd5GPNRVBI1RE-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="1010.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1970" y="1450" />
+              <mxPoint x="1970" y="600" />
+              <mxPoint x="620" y="600" />
+              <mxPoint x="620" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-42" value="Replace OLD DATA with new" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-46" target="esAnHoYAt_opumiuqzHz-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-46" value="Probably landing, send only coords" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="841" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="679.7142857142858" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-50" value="Sleep for a while to save power" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="681" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-54" value="One" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-53" target="9rvxFz3cd5GPNRVBI1RE-39">
+          <mxGeometry x="-0.8571" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="960" />
+              <mxPoint x="260" y="680" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-55" value="Many times" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-53" target="9rvxFz3cd5GPNRVBI1RE-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="960" />
+              <mxPoint x="1180" y="835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-53" value="How many times it failed?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-59" value="Many times" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-58" target="esAnHoYAt_opumiuqzHz-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="890" />
+              <mxPoint x="1580" y="890" />
+              <mxPoint x="1580" y="835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="esAnHoYAt_opumiuqzHz-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="1020" />
+              <mxPoint x="530" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-63" value="One" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="esAnHoYAt_opumiuqzHz-62">
+          <mxGeometry x="-0.709" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-64" value="&lt;b&gt;Selhání načtení sensoru&lt;/b&gt;&lt;br&gt;Tohle je tu hlavně z důvodu, že sensor se může blbě načíst&lt;br&gt;a tak ho můžeme &quot;troubleshootovat&quot; restartem.&lt;br&gt;Mohlo by se ale stát že sensor se nepodaří opravit, tak ho radši přeskočíme ať máme nějaký data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="esAnHoYAt_opumiuqzHz-62">
+          <mxGeometry x="0.4675" y="16" relative="1" as="geometry">
+            <mxPoint x="79" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esAnHoYAt_opumiuqzHz-58" value="How many times it failed?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FlK5KuFKlYHXPoUQO8sC-1" value="&lt;b&gt;Důvod střídání SD karet&lt;/b&gt;&lt;br&gt;Redundatní SD karty nám pomůžou nepřijít o data.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1230" width="140" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

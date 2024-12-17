@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b2110318fc1669cd","type":"text","text":"Integrály","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"e17cc7c7f5ea9946","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Integrace substitucí.md","x":-200,"y":200,"width":400,"height":580},
+		{"id":"7623900ebbe8ff75","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Integrace parciálních zlomků.md","x":340,"y":200,"width":840,"height":620},
+		{"id":"fc1edf27492c020f","type":"text","text":"Neučitý integrál je klasický integrál na intervalu $\\mathbb{R}$","x":200,"y":-715,"width":519,"height":191},
+		{"id":"cb64655a6725d99c","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Obrázky/tabulkove_integraly.png","x":-1860,"y":-240,"width":757,"height":421},
+		{"id":"45cb0887c6188bfb","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Určitý integrál.md","x":-860,"y":-840,"width":809,"height":655},
+		{"id":"8206ca51171459af","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Integrace Per Partes.md","x":-980,"y":240,"width":649,"height":540}
+	],
+	"edges":[
+		{"id":"c531159ecfcbb266","fromNode":"b2110318fc1669cd","fromSide":"bottom","toNode":"8206ca51171459af","toSide":"top"},
+		{"id":"e3cd87746b5b9c3c","fromNode":"b2110318fc1669cd","fromSide":"bottom","toNode":"e17cc7c7f5ea9946","toSide":"top"},
+		{"id":"7c2c79378ebd409c","fromNode":"b2110318fc1669cd","fromSide":"bottom","toNode":"7623900ebbe8ff75","toSide":"top"},
+		{"id":"175237f8ff316343","fromNode":"b2110318fc1669cd","fromSide":"top","toNode":"45cb0887c6188bfb","toSide":"bottom"},
+		{"id":"5e44a04e2419e15d","fromNode":"b2110318fc1669cd","fromSide":"top","toNode":"fc1edf27492c020f","toSide":"bottom"},
+		{"id":"d342e059971a38cf","fromNode":"b2110318fc1669cd","fromSide":"left","toNode":"cb64655a6725d99c","toSide":"right","label":"Tabulkové integrály, šetří čas"}
+	]
+}

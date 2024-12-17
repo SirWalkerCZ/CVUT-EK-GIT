@@ -1,0 +1,8 @@
+- elementární (heuristické, speciální) 
+	- jednoduché metody a postupy bez sestavování rovnic
+	- řešitel volí metody podle znalostí a okolností, není dán pevný postup řešení
+	- použitelné pro jednoduché obvody 
+- algoritmické 
+	- pevný algoritmus, který vede k cíli 
+	- obvodové rovnice
+- Metoda postupného zjednodušování – princip řešení - postupné zjednodušování obvodu (sériově a paralelně řazených prvků) až na obvod obsahující jeden zdroj a jeden rezistor • výhody: – jednoduchá metoda – použití základních matematických operací – vhodné pro „ruční výpočty“ • nevýhody: – zdlouhavá a pracná metoda – analýza pouze jednodušších obvodů s jediným zdrojem – postup řešení je „individuální “ (vyžaduje zkušenost) – některé obvody nelze takto řešit

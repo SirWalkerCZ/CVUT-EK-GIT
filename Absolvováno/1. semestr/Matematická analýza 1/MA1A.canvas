@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"f232d0a5b3dd644a","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Limity a limity funkcí.md","x":-250,"y":-700,"width":496,"height":460},
+		{"id":"6c2f85ba51a4298a","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Derivace.md","x":-589,"y":207,"width":949,"height":1873},
+		{"id":"c43061cd13f23b43","type":"text","text":"Matematika","x":-127,"y":-1080,"width":250,"height":60},
+		{"id":"be3773df5e1d0762","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Integrály.md","x":-450,"y":2520,"width":690,"height":400},
+		{"id":"eeb2884208e02733","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Vyšetřování grafu funkce.canvas","x":-1240,"y":3160,"width":400,"height":400},
+		{"id":"b9e6711722cfe915","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Vyšetřování grafů funkce.md","x":-1240,"y":2520,"width":400,"height":400},
+		{"id":"f96f58b92b4d3af5","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Integrály.canvas","x":-450,"y":3160,"width":400,"height":400},
+		{"id":"e89f01dfdb4bc6e4","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Normály, tečny a jiný geometrický autismus.md","x":-1800,"y":1004,"width":511,"height":796},
+		{"id":"c681be5b606e155a","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Řady.md","x":880,"y":-590,"width":400,"height":240},
+		{"id":"f365d8b61f1892a1","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Taylorův Polynom.md","x":520,"y":2590,"width":920,"height":260},
+		{"id":"0867cfd19d930358","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Asymptoty.md","x":-2184,"y":2464,"width":640,"height":513}
+	],
+	"edges":[
+		{"id":"9aefe22cb55256ad","fromNode":"c43061cd13f23b43","fromSide":"bottom","toNode":"f232d0a5b3dd644a","toSide":"top"},
+		{"id":"80544b338a4d78e7","fromNode":"f232d0a5b3dd644a","fromSide":"bottom","toNode":"6c2f85ba51a4298a","toSide":"top"},
+		{"id":"d878f3e6285f14a7","fromNode":"b9e6711722cfe915","fromSide":"bottom","toNode":"eeb2884208e02733","toSide":"top"},
+		{"id":"c06545f1481f1be7","fromNode":"6c2f85ba51a4298a","fromSide":"bottom","toNode":"b9e6711722cfe915","toSide":"top"},
+		{"id":"0f7d2d0af8cdef0d","fromNode":"6c2f85ba51a4298a","fromSide":"bottom","toNode":"be3773df5e1d0762","toSide":"top"},
+		{"id":"5d45abe5fc22ed5b","fromNode":"6c2f85ba51a4298a","fromSide":"bottom","toNode":"f365d8b61f1892a1","toSide":"top"},
+		{"id":"5905e60a4e3c7d90","fromNode":"be3773df5e1d0762","fromSide":"bottom","toNode":"f96f58b92b4d3af5","toSide":"top"},
+		{"id":"d0454116c12eee00","fromNode":"b9e6711722cfe915","fromSide":"left","toNode":"0867cfd19d930358","toSide":"right"},
+		{"id":"5e507b49cbc2eb40","fromNode":"6c2f85ba51a4298a","fromSide":"left","toNode":"e89f01dfdb4bc6e4","toSide":"right"},
+		{"id":"087f2cef44da114c","fromNode":"c43061cd13f23b43","fromSide":"right","toNode":"c681be5b606e155a","toSide":"top"}
+	]
+}

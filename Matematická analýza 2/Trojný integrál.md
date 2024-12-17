@@ -1,0 +1,21 @@
+- převod do různých souřadnic 
+	- válcové 
+		- $x=r\cos\varphi$
+		- $y=r\sin\varphi$
+		- $z=z$
+		- jakobián: $r$
+	- sférické
+		- $x=r\sin\theta\cos\varphi$
+		- $y=r\sin\theta\sin\varphi$
+		- $z=r\cos\theta$
+		- jakobián: $r^2\sin\theta$
+- Průměrná hodnota $\frac{\int\int\int f}{\int\int\int 1}$
+- Objem ${\int\int\int 1}$
+- f obvykle zadá hustotu
+- Těžiště:
+	- těžiště na x: $x_0=\frac{\int\int\int fx}{\int\int\int f}$
+	- těžiště na y: $y_0=\frac{\int\int\int fy}{\int\int\int f}$
+	- těžiště na z: $z_0=\frac{\int\int\int fz}{\int\int\int f}$
+- moment setrvačnosti
+	- 
+

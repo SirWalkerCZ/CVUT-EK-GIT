@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"57b0efde91013741","type":"file","file":"Space Research/BALLOON/GSM.md","x":-760,"y":-300,"width":400,"height":2500},
+		{"id":"985be4f246260c9f","type":"file","file":"Space Research/BALLOON/Pinout.md","x":840,"y":-1480,"width":400,"height":1821},
+		{"id":"baf786d5b102a2ba","type":"file","file":"Space Research/BALLOON/Pasted image 20240426122841.png","x":1360,"y":-1367,"width":400,"height":287},
+		{"id":"3a1c9fd5c9d11ede","type":"file","file":"Space Research/BALLOON/Main.md","x":1560,"y":-440,"width":1799,"height":2242},
+		{"id":"05035bbb6bc68db3","type":"file","file":"Space Research/BALLOON/Balón - vstupní úvahy.md","x":1960,"y":-1880,"width":960,"height":1200},
+		{"id":"35420613e98fe405","type":"file","file":"Space Research/BALLOON/balloon crashes.md","x":480,"y":513,"width":760,"height":2579},
+		{"id":"2eec70b942aa9669","type":"file","file":"Space Research/BALLOON/SD.md","x":3600,"y":-969,"width":400,"height":729},
+		{"id":"e02f2ad7bd94c5b7","type":"file","file":"Space Research/BALLOON/FatFS.md","x":3600,"y":-1567,"width":400,"height":400},
+		{"id":"65785f3db59f5305","type":"file","file":"Space Research/BALLOON/GPS.md","x":-240,"y":-800,"width":400,"height":2560},
+		{"id":"c699ec6c53cf0fd0","type":"file","file":"Space Research/BALLOON/Power consumption.md","x":-1000,"y":-2520,"width":1680,"height":440},
+		{"id":"8703e395f741cd8f","type":"file","file":"Space Research/BALLOON/I2C  scanner.md","x":-2120,"y":-2000,"width":1480,"height":520},
+		{"id":"eb38ec27301a93d9","type":"text","text":"","x":-1981,"y":-1965,"width":250,"height":60},
+		{"id":"d5fdb0d15be36617","type":"file","file":"Space Research/olld/ustav.md","x":-2840,"y":-1280,"width":1160,"height":480},
+		{"id":"29435337e4c5783b","type":"file","file":"Space Research/BALLOON/Co změnit na na desce.md","x":960,"y":-2640,"width":800,"height":340},
+		{"id":"e44885aaa230f814","type":"file","file":"Space Research/BALLOON/Freefall.md","x":-2131,"y":-440,"width":1051,"height":1720},
+		{"id":"95ca3625e9f31828","type":"file","file":"Space Research/BALLOON/Docs/SIM800L-Datasheet.pdf","x":-1760,"y":2569,"width":1080,"height":1471},
+		{"id":"131d70efc19d8b0a","type":"file","file":"Space Research/BALLOON/Docs/SIM800_Series_AT_Command_Manual_V1.09.pdf","subpath":"#page=1","x":-140,"y":4200,"width":1140,"height":1560},
+		{"id":"029fde04941e2902","type":"file","file":"Space Research/BALLOON/Balloon Box Specs.md","x":-3520,"y":1280,"width":1040,"height":1398},
+		{"id":"d1aa8b53cc84116d","type":"text","text":"","x":-2316,"y":1667,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"5e18663c45740d8e","fromNode":"985be4f246260c9f","fromSide":"right","toNode":"baf786d5b102a2ba","toSide":"left"},
+		{"id":"db4502d682921177","fromNode":"3a1c9fd5c9d11ede","fromSide":"left","toNode":"985be4f246260c9f","toSide":"right"},
+		{"id":"18d6e17fcaf27009","fromNode":"05035bbb6bc68db3","fromSide":"bottom","toNode":"3a1c9fd5c9d11ede","toSide":"top"},
+		{"id":"db3d4660f37716ee","fromNode":"3a1c9fd5c9d11ede","fromSide":"right","toNode":"2eec70b942aa9669","toSide":"left"},
+		{"id":"e9dadd36d3a1b4e3","fromNode":"2eec70b942aa9669","fromSide":"top","toNode":"e02f2ad7bd94c5b7","toSide":"bottom"},
+		{"id":"16078af3071e0024","fromNode":"95ca3625e9f31828","fromSide":"top","toNode":"57b0efde91013741","toSide":"bottom"},
+		{"id":"4a961fc2daf63096","fromNode":"131d70efc19d8b0a","fromSide":"top","toNode":"57b0efde91013741","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,1 @@
+ Rovnoměrný pohyb po kružnici má neměnnou velikost rychlosti, její směr se ale mění. ̶ Úhlovou rychlostí nazýváme změnu úhlu s časem, ω = dφ/dt. ̶ Mezi dráhovou a úhlovou rychlostí platí jednoduchý vztah: v = Rω. ̶ Na těleso působí nenulové normálové zrychlení, které míří kolmo na dráhu tělesa a má velikost an = v2 /R.

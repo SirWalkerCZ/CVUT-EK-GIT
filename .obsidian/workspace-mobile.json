@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Digitální technika/Prezentace/01_Číselné_soustavy_kódy.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "01_Číselné_soustavy_kódy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5f322bb5ccbcb83",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "44f28f9dd4b89c08",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "ed12122ed65ed644",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "2a95e883e99b6dde",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d5d5c545cac4d131",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6ac25670485673d7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "72421481e245f5a0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Elektrická měření/Elektrická-měření---Přístroje-a-metody---Haasz,Sedláček---1998.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f1f9fe5b30104170",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Elektrická měření/Elektrická-měření---Přístroje-a-metody---Haasz,Sedláček---1998.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "9c9594cdb72c40d8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Fyzika/f2s.pdf"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Digitální technika/ddu_procházka.jpg",
+    "Main Page.md",
+    "3. Speciální Semestrální operace.md",
+    "Elektromagnetická měření/Uloha_10 - Princip vzorkování_9cb768254eb12c0b4d09bfdaf6fd02f8(1).pdf",
+    "Image bank/Excalidraw/pracovni_Bod_diody.md",
+    "Elektronické prvky/Diody.md",
+    "Image bank/Excalidraw/cojetomosfet.md",
+    "Diody.md",
+    "Fyzika/Vzorečky.pdf",
+    "Fyzika/f2s.pdf",
+    "Fyzika/f2.pdf",
+    "Absolvováno/Laboratoře průmyslové techniky/2. týden/Integrační článek/F2.png",
+    "Elektronické prvky/MOSFETY.md",
+    "Elektronické prvky/Vzorce.pdf",
+    "Elektronické prvky/Cvičení/ELPA_2024_cv_09.pdf",
+    "Fyzika/fyztest.md",
+    "Elektronické prvky/zapoctovy_test.pdf",
+    "Image bank/Excalidraw/Pasted Image 20241207193605_017.png",
+    "Untitled.md",
+    "Image bank/Excalidraw/Pasted Image 20241207190421_528.png",
+    "Image bank/Excalidraw/Pasted Image 20241207185728_629.png",
+    "Elektronické prvky/elpa_27e55ddd-19cf-4f59-8d7c-c29857266477/elpa_media/9_1_1_image.png.4a77b3cd-9c1e-46a1-a06f-9657fd90fe9e.png",
+    "Elektronické prvky/elpa_27e55ddd-19cf-4f59-8d7c-c29857266477/elpa_media/7_1_1_image.png.02b36bce-f594-4c85-a244-c754c711f03a.png",
+    "Elektronické prvky/elpa_27e55ddd-19cf-4f59-8d7c-c29857266477/elpa_media/8_1_1_image.png.2d6c0ec8-3f7a-45c1-8e79-c7af678499ea.png",
+    "Elektronické prvky/elpa_27e55ddd-19cf-4f59-8d7c-c29857266477/elpa_media/74_1_1_image.png.8330e774-156f-465e-b47b-a378937e8292.png",
+    "Elektronické prvky/elpa_27e55ddd-19cf-4f59-8d7c-c29857266477/elpa_media/61_1_1_image.png.c25a0622-e48d-4475-804d-5abda4255964.png",
+    "Elektronické prvky/elpa_27e55ddd-19cf-4f59-8d7c-c29857266477/elpa_media/60_1_1_image.png.307a752b-8ee4-4474-83de-796032c7c89c.png",
+    "Elektronické prvky/elpa_27e55ddd-19cf-4f59-8d7c-c29857266477/elpa_media",
+    "Elektronické prvky/elpa_27e55ddd-19cf-4f59-8d7c-c29857266477",
+    "MOSFETY.md",
+    "Image bank/Excalidraw/Drawing 2024-12-07 14.20.26.excalidraw.md",
+    "Elektronické prvky/ELPA07_2024v1.pdf",
+    "Elektromagnetická měření/LAB06/lab06zkurvenyemb.md",
+    "Elektromagnetická měření/LAB01/EMB LAB01.md",
+    "Elektromagnetická měření/Testy v semestru A2B38EMB.md",
+    "Elektromagnetická měření/Osnovy protokolů.md",
+    "Elektromagnetická měření/3. semestr.md",
+    "fyztest.md",
+    "Space Research/Nováčci-úkoly/Lab day středa.md",
+    "Space Research/meeting.md",
+    "Image bank/Excalidraw/ignition_System_esp32.excalidraw.md",
+    "úloha10.md",
+    "Image bank/Excalidraw/Drawing 2024-11-20 20.24.02.excalidraw.md",
+    "Digitální technika/Lab5_CV10/Synchronní čítač s parametrizací kódu a s výstupem na displej.md",
+    "Digitální technika/Lab5_CV10/DITA-5-2-2.md",
+    "Digitální technika/Lab5_CV10/DITA-5-2-1.md",
+    "Komplexní analýza/KANA.canvas",
+    "Elektrická měření/Elektrická měření.canvas",
+    "Matematická analýza 2/MA2A.canvas",
+    "Elektromagnetická pole/EMPA.canvas",
+    "Space Research/BALLOON/BALLOON.canvas",
+    "Matematická analýza 1/Integrály.canvas",
+    "Matematická analýza 1/MA1A.canvas",
+    "Matematická analýza/MA1A.canvas"
+  ]
+}

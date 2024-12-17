@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"8ddeaf2ff22b869c","type":"file","file":"Matematická analýza 2/Trojný integrál.md","x":0,"y":-1080,"width":440,"height":800},
+		{"id":"92399a845d408ab1","type":"file","file":"Matematická analýza 2/Polární souřadnice.md","x":680,"y":-1080,"width":1160,"height":1220},
+		{"id":"27d43ff264915bb9","type":"file","file":"Matematická analýza 2/Greenova věta.md","x":800,"y":-2260,"width":1000,"height":960},
+		{"id":"1b44a81d03f660be","type":"file","file":"Matematická analýza 2/Gausova věta.md","x":-180,"y":-2260,"width":920,"height":960},
+		{"id":"c373164e0b2ecf68","type":"file","file":"Matematická analýza 2/Stokesova věta.md","x":-1340,"y":-2260,"width":1080,"height":960},
+		{"id":"f95cad5e317f2b9e","type":"file","file":"Matematická analýza 2/MA2A-Zkouška.md","x":-2080,"y":-760,"width":400,"height":1440,"color":"3"},
+		{"id":"0a04f055fad09d9c","type":"file","file":"Matematická analýza 2/Dvojný integrál.md","x":0,"y":-240,"width":440,"height":400},
+		{"id":"46cb780270172715","type":"file","file":"Matematická analýza 2/Lagranž v matice.png","x":-3760,"y":-1020,"width":1275,"height":780},
+		{"id":"bb73f15709fbecea","type":"file","file":"Matematická analýza 2/Lokální extrémy.png","x":-3792,"y":-180,"width":1307,"height":803,"color":"3"},
+		{"id":"e764b79be3f37dbc","type":"text","text":"","x":-3722,"y":959,"width":250,"height":60},
+		{"id":"6e7996c4ba96d89a","type":"file","file":"Matematická analýza 2/Tečná rovina.png","x":-3792,"y":680,"width":1360,"height":2562},
+		{"id":"f95714be4cab8a9d","type":"file","file":"Matematická analýza 2/Fourierova řada.md","x":-2080,"y":-2087,"width":400,"height":614},
+		{"id":"86f9c4ebe586fed1","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Integrace Per Partes.md","x":-2220,"y":-2800,"width":738,"height":625},
+		{"id":"48648918061b885b","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Řady.md","x":-3520,"y":-2940,"width":1140,"height":1640,"color":"4"},
+		{"id":"e6a061587ab21df0","type":"text","text":"Určení kolmosti úhlu 2 funkcí:\nMějme 2 funkce f(x) a g(x)\nTyto funkce obě zderivuj, dosaď body kolmosti a pak použij vektorový součin","x":-4253,"y":-1191,"width":250,"height":311},
+		{"id":"72626a8f529b2ab8","type":"text","text":"$cos \\phi = u . V/ |u||v|$","x":-1997,"y":1400,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f3d28907d20db49a","fromNode":"f95cad5e317f2b9e","fromSide":"right","toNode":"0a04f055fad09d9c","toSide":"left"},
+		{"id":"349c72aea6775616","fromNode":"f95cad5e317f2b9e","fromSide":"right","toNode":"8ddeaf2ff22b869c","toSide":"left"},
+		{"id":"23b00a5b14df2611","fromNode":"0a04f055fad09d9c","fromSide":"right","toNode":"92399a845d408ab1","toSide":"left"},
+		{"id":"f199dd798bf67260","fromNode":"8ddeaf2ff22b869c","fromSide":"right","toNode":"92399a845d408ab1","toSide":"left"},
+		{"id":"f98cfc49d89cb24b","fromNode":"8ddeaf2ff22b869c","fromSide":"top","toNode":"27d43ff264915bb9","toSide":"bottom"},
+		{"id":"fd19d09cc253558c","fromNode":"8ddeaf2ff22b869c","fromSide":"top","toNode":"1b44a81d03f660be","toSide":"bottom"},
+		{"id":"c8666bb7b5812924","fromNode":"8ddeaf2ff22b869c","fromSide":"top","toNode":"c373164e0b2ecf68","toSide":"bottom"},
+		{"id":"fad104b586bbc026","fromNode":"f95cad5e317f2b9e","fromSide":"left","toNode":"46cb780270172715","toSide":"right"},
+		{"id":"c8aa4bb08674f4d7","fromNode":"f95cad5e317f2b9e","fromSide":"left","toNode":"bb73f15709fbecea","toSide":"right"},
+		{"id":"8e96db438a060d22","fromNode":"f95cad5e317f2b9e","fromSide":"left","toNode":"6e7996c4ba96d89a","toSide":"right"},
+		{"id":"bc17d472eafded6e","fromNode":"f95cad5e317f2b9e","fromSide":"top","toNode":"f95714be4cab8a9d","toSide":"bottom"},
+		{"id":"6e7b0f2c6f326b35","fromNode":"f95714be4cab8a9d","fromSide":"top","toNode":"86f9c4ebe586fed1","toSide":"bottom"},
+		{"id":"adf91291c7dbd3fe","fromNode":"f95714be4cab8a9d","fromSide":"left","toNode":"48648918061b885b","toSide":"right"},
+		{"id":"f47420146ab92cf0","fromNode":"f95cad5e317f2b9e","fromSide":"left","toNode":"e6a061587ab21df0","toSide":"right"},
+		{"id":"cb4a0664581cc6aa","fromNode":"f95cad5e317f2b9e","fromSide":"bottom","toNode":"72626a8f529b2ab8","toSide":"top"}
+	]
+}

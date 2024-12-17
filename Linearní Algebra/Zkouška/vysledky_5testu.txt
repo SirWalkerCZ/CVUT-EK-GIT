@@ -1,0 +1,21 @@
+Nektere veci jsem pocital velmi rychle, muzou obsahovat numericke chyby. Vsecko brat s rezervou -> pripadne sem dopiste opravy, pokud si jste jisti.
+
+2017:
+- A: 1c, 2d, 3a, 4a
+- C: proj(v) = (3,3); proj(w)=(6,6); det(A)=0
+
+2016:
+- A: 1d,2a,3a,4c
+- C: a=3 ortogonalizovano sloupec 1: (1,2,2) sl. 2: (-2/9, -4/9, 5/9) sl. 3: (29/45, -13/45, -13/45)
+
+2015:
+- A: 1c, 2b, 3b, 4c
+- C: pro a=0 spec pripady a pro ostatni, v zasade body
+
+1:
+- A: 1d, 2a, 3a, 4c
+- C: A= sl. 1: (-4,3) sl. 2: (-6,5); lambda/alfa = 2,-1; diagonalizovaná matice sl. 1 (2,0) sl. 2(0,-1)
+
+2:
+- A: 1b, 2b, 3a, 4b
+- C: proj(1,1,1) na tu rovinu: (16/15, 17/15, 10/15)

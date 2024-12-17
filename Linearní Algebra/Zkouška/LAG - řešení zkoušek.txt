@@ -1,0 +1,18 @@
+﻿LAG 02-06-2016 
+-- část A
+1. b
+2. a
+3. c
+4. b
+
+
+LAG 07-06-2016 
+-- část A
+1. b
+2. chyba v zadání - žádná správná
+3. a
+4. b
+
+-- část C
+řešit buď vzorcem A ( A^T G A )^-1 A^T G - není třeba ortogonalisovat
+nebo přes skalární součin, ale je napřed nutno ortogonalisovat bási roviny

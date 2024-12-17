@@ -1,0 +1,3 @@
+- [ ] objednat díly
+- [ ] namontovat díly
+- [ ] zkalibrovat

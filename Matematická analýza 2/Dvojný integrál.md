@@ -1,0 +1,6 @@
+- přehození pořadí integrace
+	- nakresli si obrázek
+	- vyjádři si x
+- [[Polární souřadnice]]
+- Průměrná hodnota $\frac{\int\int f}{\int\int 1}$
+- 

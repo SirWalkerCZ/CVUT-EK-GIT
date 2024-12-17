@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"1787a94cb5d46780","type":"text","text":"Dostanu zadání, nejdřív si spočtu první derivaci","x":-100,"y":-430,"width":540,"height":50,"color":"1"},
+		{"id":"7ce7ffa9e81682e7","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Derivace.md","x":-30,"y":-208,"width":400,"height":400},
+		{"id":"93e684384374c506","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Lokální Extrémy.md","x":195,"y":1044,"width":1068,"height":846},
+		{"id":"da0a32a2bd60c6d0","type":"text","text":"Druhá derivace","x":-392,"y":640,"width":250,"height":60},
+		{"id":"f915f63ecdfd8d29","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Konvexnost a konkávnost.md","x":-833,"y":1044,"width":883,"height":846},
+		{"id":"f28731b9bbdf6550","type":"text","text":"Dál si vyšetřím nulové body","x":4,"y":409,"width":331,"height":63},
+		{"id":"41db0621d60e52cb","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Intervaly monotonie.md","x":370,"y":-1200,"width":645,"height":640},
+		{"id":"0fd590f8c86f830f","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Stacionární body.md","x":440,"y":-39,"width":831,"height":960},
+		{"id":"5b9a934d967d4e65","type":"file","file":"Absolvováno/1. semestr/Matematická analýza 1/Vyšetřování grafů funkce.md","x":-1760,"y":-960,"width":880,"height":400,"color":"6"}
+	],
+	"edges":[
+		{"id":"280471f3509809ae","fromNode":"1787a94cb5d46780","fromSide":"bottom","toNode":"7ce7ffa9e81682e7","toSide":"top"},
+		{"id":"7eb6b2611d40c8bf","fromNode":"7ce7ffa9e81682e7","fromSide":"bottom","toNode":"f28731b9bbdf6550","toSide":"top"},
+		{"id":"fe7d3087529fe06f","fromNode":"f28731b9bbdf6550","fromSide":"right","toNode":"0fd590f8c86f830f","toSide":"left"},
+		{"id":"bdd6a1a2361dd172","fromNode":"0fd590f8c86f830f","fromSide":"top","toNode":"41db0621d60e52cb","toSide":"bottom"},
+		{"id":"1af606057acdaaef","fromNode":"0fd590f8c86f830f","fromSide":"bottom","toNode":"93e684384374c506","toSide":"top"},
+		{"id":"8f7dbb37fff41672","fromNode":"7ce7ffa9e81682e7","fromSide":"left","toNode":"da0a32a2bd60c6d0","toSide":"right"},
+		{"id":"633d30a859934246","fromNode":"da0a32a2bd60c6d0","fromSide":"bottom","toNode":"f915f63ecdfd8d29","toSide":"top"}
+	]
+}

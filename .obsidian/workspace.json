@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccfa1ad4583c2512",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bbfde2cbe50ba25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digitální technika/LAB6_CV11/Děličky frekvence, digitální stopky s výstupem na displej.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Děličky frekvence, digitální stopky s výstupem na displej"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a032271c02619f67",
+    "type": "split",
+    "children": [
+      {
+        "id": "b76ba4fb7973acaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddc5537f1cffe773",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1ba2cf210ba3f0be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f3e0477b9624dfaa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e701232577dfae49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "c7e26a237ebc9c9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "43c9ecc47a7bc6c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c25e57e2a0aa5be9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Páteční aktivity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Páteční aktivity"
+            }
+          },
+          {
+            "id": "710bc851b2277fef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Páteční aktivity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Páteční aktivity"
+            }
+          },
+          {
+            "id": "3421a599042b3aa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c941691ea93ece52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Páteční aktivity.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Páteční aktivity"
+            }
+          },
+          {
+            "id": "16b271071a27001c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7ea4a33d76c0d029",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4bbfde2cbe50ba25",
+  "lastOpenFiles": [
+    "Digitální technika/DITA/16. Realizace děliček frekvence.md",
+    "Digitální technika/DITA/18. Parametrizace VHDL kódu pomocí konstrukce generic, mapování generic portů (generic map), jednoduchý příklad.md",
+    "Digitální technika/Prezentace/12_VHDL_parametrizace_funkce_procedury_knihovny.pdf",
+    "Digitální technika/DITA/Zápočtový test okruhy.pdf",
+    "Digitální technika/DITA/19. Funkce a procedury.md",
+    "Digitální technika/DITA cheatsheet.md",
+    "Digitální technika/DITA/15. Realizace čítačů v jazyce VHDL.md",
+    "Digitální technika/DITA/8. TTL vs CMOS.md",
+    "Digitální technika/DITA/7. Vlastnosti a pojmy okolo hradel.md",
+    "Digitální technika/DITA/3. Def. kombinačního log. obvodu.md",
+    "Digitální technika/DITA/2. Logické funkce a Boolova Algebra.md",
+    "Digitální technika/DITA/1. Číselné soustavy.md",
+    "Digitální technika/DITA/13. Podmínky ve VHDL.md",
+    "Digitální technika/DITA/12. Operátory ve VHDL.md",
+    "Digitální technika/DITA/11. Datové typy v jazyce VHDL.md",
+    "Digitální technika/DITA/10. Základní vlastnosti jazyka VHDL, 3 způsoby popisu log. obvodů v jazyce VHDL, sekvenční a paralelní prostředí. Základní pojmy – entita, komponenta, architektura, proces, port..md",
+    "Digitální technika/DITA/9. Základní struktura FPGA.md",
+    "Digitální technika/DITA/Zpracované okruhy.md",
+    "Digitální technika/DITA (1)/Zpracované okruhy.md",
+    "Digitální technika/DITA (1)/2. Logické funkce a Boolova Algebra.md",
+    "Digitální technika/DITA (1)/1. Číselné soustavy.md",
+    "Digitální technika/DITA (1)/4. Sekvenční logické obvody.md",
+    "Digitální technika/DITA (1)/6. Čítače D a JK.md",
+    "Digitální technika/DITA (1)/12. Operátory ve VHDL.md",
+    "Digitální technika/DITA (1)/5. Klopné obvody.md",
+    "Digitální technika/DITA (1)/8. TTL vs CMOS.md",
+    "Digitální technika/DITA (1)/7. Vlastnosti a pojmy okolo hradel.md",
+    "Digitální technika/DITA (1)/15. Realizace čítačů v jazyce VHDL.md",
+    "Digitální technika/DITA (1)/Images/Pasted image 20241215175633.png",
+    "Digitální technika/DITA (1)/Images/Pasted image 20241215141143.png",
+    "Digitální technika/DITA (1)/Images/Pasted image 20241216104815.png",
+    "Digitální technika/DITA (1)/Images/Pasted image 20241215175724.png",
+    "Digitální technika/DITA (1)/Images/Pasted image 20241215161358.png",
+    "Digitální technika/DITA (1)/Images/Pasted image 20241202190737.png",
+    "Digitální technika/DITA (1)/Images/Pasted image 20241203223326.png",
+    "Digitální technika/DITA (1)/Images/Pasted image 20241202190653.png",
+    "Digitální technika/DITA (1)/Images/Pasted image 20241202190706.png",
+    "Digitální technika/DITA (1)/Images/Pasted image 20241203210433.png",
+    "Digitální technika/DITA (1)/Zákony Booleovy algebry 2.pdf",
+    "Digitální technika/DITA (1)/Zápočtový test okruhy.pdf",
+    "Digitální technika/DITA (1)/Images",
+    "Digitální technika/DITA (1)",
+    "Space Research/Nováčci-úkoly/CTUSR_AVIONICS_PROJECT_I.pdf",
+    "Space Research/Nováčci-úkoly/CTUSR AVIONICS PROJECT IV.pdf",
+    "Space Research/Nováčci-úkoly/CTUSR AVIONICS PROJECT II.pdf",
+    "Space Research/Nováčci-úkoly/Projekt2.pdf",
+    "Space Research/BALLOON/BALLOON.canvas",
+    "Komplexní analýza/KANA.canvas",
+    "Elektrická měření/Elektrická měření.canvas",
+    "Elektromagnetická pole/EMPA.canvas",
+    "Matematická analýza 2/MA2A.canvas",
+    "Absolvováno/1. semestr/Matematická analýza 1/MA1A.canvas",
+    "Absolvováno/1. semestr/Matematická analýza 1/Integrály.canvas",
+    "Absolvováno/1. semestr/Matematická analýza 1/Vyšetřování grafu funkce.canvas"
+  ]
+}

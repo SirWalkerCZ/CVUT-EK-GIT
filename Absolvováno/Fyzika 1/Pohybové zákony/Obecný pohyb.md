@@ -1,0 +1,1 @@
+ U obecného pohybu na těleso působí jak tečné, tak normálové zrychleni. ̶ Tečné zrychlení souvisí se změnou velikosti rychlosti, at = dv/dt. ̶ Normálové zrychlení souvisí se změnou směru rychlosti, an = v2 /R. ̶ Normálové zrychlení můžeme určit z vektorového vztahu a = at + an .

@@ -1,0 +1,3 @@
+ - V prvním stupni abstrakce oddělujeme čísla od skutečných předmětů
+ - V druhém stupni abstrakce nahrazujeme čísla zástupnými symboly – matematickými objekty, kterým říkáme proměnné
+ - Ve třetím stupni abstrakce nás přestanou zajímat i matematické objekty samotné a zaměříme se jen na vlastnosti operací, které s nimi provádíme

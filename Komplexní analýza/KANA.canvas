@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8981fe1b7aae0394","type":"text","text":"[Linka na YT od Bohaty](https://www.youtube.com/watch?v=PqaPiItJFXg&list=PLQL6z4JeTTQk4zpAmJSPt08eT7l97Umam)\n","x":-270,"y":-18,"width":510,"height":338},
+		{"id":"6e0d19054ea8914b","type":"text","text":"Osnovy\n\n|     |     |                                                                            |\n| --- | --- | -------------------------------------------------------------------------- |\n| 1.  |     | Komplexní čísla. Limita a derivace funkce komplexní proměnné.              |\n| 2.  |     | Cauchy-Riemannovy podmínky, holomorfnost. Harmonické funkce.               |\n| 3.  |     | Elementární funkce. Křivkový integrál.                                     |\n| 4.  |     | Cauchyova věta a Cauchyův integrální vzorec.                               |\n| 5.  |     | Reprezentace holomorfní funkce mocninnou řadou.                            |\n| 6.  |     | Laurentovy řady. Izolované singularity.                                    |\n| 7.  |     | Reziduum. Reziduová věta a její aplikace.                                  |\n| 8.  |     | Fourierovy řady a základní vlastnosti Fourierovy transformace.             |\n| 9.  |     | Věta o inverzní Fourierově transformaci. Aplikace Fourierovy transformace. |\n| 10. |     | Základní vlastnosti Laplaceovy transformace.                               |\n| 11. |     | Inverzní Laplaceova transformace. Aplikace Laplaceovy transformace.        |\n| 12. |     | Základní vlastnosti Z-transformace.                                        |\n| 13. |     | Inverzní Z-transformace. Aplikace Z-transformace.                          |\n| 14. |     | Rezerva                                                                    |\n","x":-564,"y":-980,"width":804,"height":820},
+		{"id":"432d9900c22ca330","x":969,"y":-786,"width":400,"height":400,"type":"file","file":"Komplexní analýza/Prezentace1.pdf"},
+		{"id":"ace4dbd911a051e7","x":1660,"y":-786,"width":400,"height":400,"type":"file","file":"Komplexní analýza/Prezentace2.pdf"}
+	],
+	"edges":[
+		{"id":"507437808bd2b2ea","fromNode":"432d9900c22ca330","fromSide":"right","toNode":"ace4dbd911a051e7","toSide":"left"}
+	]
+}

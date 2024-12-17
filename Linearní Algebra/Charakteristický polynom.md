@@ -1,0 +1,2 @@
+Mějme čtvercovou matici A. Charakteristický polynom matice A je potom det(A – x . E) a značíme ho [charA(x)]. 
+	E je jednotková matice stejného počtu řádků jako A; vyjde něco typu [ax3 + bx2 + cx + d], nebo hůř.)
