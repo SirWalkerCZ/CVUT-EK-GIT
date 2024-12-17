@@ -15,3 +15,4 @@ Property of Wolfič Klub
 ![[13. Podmínky ve VHDL]]
 ![[14. Možnosti realizace klopných obvodů ve VHDL]]
 ![[15. Realizace čítačů v jazyce VHDL]]
+![[16. Realizace děliček frekvence]]
